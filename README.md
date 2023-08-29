@@ -45,7 +45,7 @@ This graph visually represents the clustering results and allows a deeper unders
 
 <img width="511" alt="image" src="https://github.com/avani-potl/NetworkAnalysis/assets/137739877/79c1f54e-266f-4ac4-a268-13f56cbcaa9b">
 
-<img width="406" alt="image" src="https://github.com/avani-potl/NetworkAnalysis/assets/137739877/45c23a37-f564-476c-bca5-1dd78dbcf0c7">
+
 
 
 
